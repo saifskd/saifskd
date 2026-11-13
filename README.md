@@ -81,7 +81,7 @@ These are existing web-development projects from my GitHub. I'll feature dedicat
 
 - [x] Begin Python programming
 - [x] Practice tabular data with Pandas
-- [ ] Complete more NumPy and Pandas exercises
+- [x] Complete more NumPy and Pandas exercises
 - [ ] Build a dedicated data cleaning / exploratory analysis project
 - [ ] Learn introductory machine learning models and evaluation
 - [ ] Share an end-to-end beginner ML project on GitHub
